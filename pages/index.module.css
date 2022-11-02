@@ -1,0 +1,36 @@
+.main{
+    padding: 70px;
+    margin-left: 450px;
+  }
+  .label{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .form{
+    margin-bottom: 50px;
+  }
+  .button{
+    padding: 10px;
+    color: whitesmoke;
+    background: rgb(2, 110, 35);
+    border: none;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 400px;
+    height: 30px;
+  }
+  .button:hover{
+    color: rgb(2, 110, 35);;
+    border: solid rgb(2, 110, 35) .5px;
+    background-color: whitesmoke;
+    transition: 300ms;
+  }
+  .select{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+  }
+  .table{
+    margin-left: 15px;
+  }
